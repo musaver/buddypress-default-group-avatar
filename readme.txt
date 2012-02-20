@@ -3,14 +3,14 @@ Contributors: vernonfowler, tareq1988
 Donate link: http://vfowler.com/
 Tags: buddypress, groups, avatar, default
 Requires at least: WordPress 3.1 and BuddyPress 1.2.x
-Tested up to: WordPress 3.3.1 and BuddyPress 1.5.3.1
+Tested up to: WordPress 3.3.1 and BuddyPress 1.5.3.4
 Stable tag: trunk
 
 Adds a default group avatar to BuddyPress. Configure the image URL via the option page.
 
 == Description ==
 
-Allows specifying the URL of an image to use as the BuddyPress default group avatar. This makes it easy to distinguish groups from members who are using the mystery man default user avatar. The avatar scales from full to thumb as per your theme settings. It works in all situations (activity stream, groups, forums, directory, etc). Upload your image to somewhere within your theme and drop the full URL in the options screen.
+Allows specifying the URL of an image to use as the BuddyPress default group avatar. This makes it easy to distinguish groups from members who are using the mystery man default user avatar. The avatar scales from full to thumb as per your theme settings. It works in all situations (activity stream, groups, forums, directory, etc). Upload your image to somewhere within your theme and drop the full URL in the options screen. Not yet working for multisite/network install.
 
 == Installation ==
 
