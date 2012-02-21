@@ -3,7 +3,7 @@ Contributors: vernonfowler, tareq1988
 Donate link: http://vfowler.com/
 Tags: buddypress, groups, avatar, default
 Requires at least: WordPress 3.1 and BuddyPress 1.2.x
-Tested up to: WordPress 3.3.1 and BuddyPress 1.5.3.4
+Tested up to: WordPress 3.3.1 and BuddyPress 1.5.4
 Stable tag: trunk
 
 Adds a default group avatar to BuddyPress. Configure the image URL via the option page.
